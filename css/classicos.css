@@ -1,0 +1,38 @@
+.img-ctn{
+    width: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.img-ctn img{
+    width: 100%;
+}
+
+.title-p{
+    font-size: 54px;
+    font-weight: 500;
+    margin: 0 0 20px 0;
+}
+.main-ctn{
+    width: 90%;
+    margin: 50px auto;
+}
+
+.add-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 50px;
+}
+.card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.no-margin{
+    margin: 0;
+}
+
+.title-2{
+    text-align: center;
+}

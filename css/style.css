@@ -1,0 +1,32 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.title{
+    font-size: 54px;
+    text-align: center;
+    font-weight: 500;
+    margin: 50px 0;
+}
+.flex-ctn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 50px;
+}
+.detail__item{
+    text-decoration: none;
+    color: black;
+}
+.ctn{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ctn img{
+    width: 100%;
+}
+
+
+
