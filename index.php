@@ -1,7 +1,7 @@
 <?php require 'header.php'; ?>
 <?php require 'cardapio.php';?>
 
-    <h1 class="title">Clássicos</h1>
+    <h1 class="title">Cardápio</h1>
     <div class="flex-ctn">
 
       <?php

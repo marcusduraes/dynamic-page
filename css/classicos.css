@@ -10,7 +10,7 @@
 
 .title-p{
     font-size: 54px;
-    font-weight: 500;
+    font-weight: 700;
     margin: 0 0 20px 0;
 }
 .main-ctn{
@@ -18,6 +18,10 @@
     margin: 50px auto;
 }
 
+.back-link{
+    padding: 15px 5%;
+    margin-bottom: 30px;
+}
 .add-info{
     display: flex;
     justify-content: center;
@@ -35,4 +39,5 @@
 
 .title-2{
     text-align: center;
+    font-weight: 500;
 }

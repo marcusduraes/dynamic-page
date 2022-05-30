@@ -12,6 +12,9 @@
     }
 ?>
     <div class="main-ctn">
+        <div class="back-link">
+            <a href="index.php" class="link">Voltar para o Cardápio</a>
+        </div>
         <div class="flex-ctn">
             <div class="img-ctn">
                 <img src="content/images/<?php echo $codigo_prato;?>.jpg" alt="<?php echo $codigo_prato;?>">
